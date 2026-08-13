@@ -1,0 +1,6 @@
+{
+  "name": "AIRS - Autonomous Intelligence Reporting System",
+  "description": "Autonomous intelligence and dataset analytics platform with automated PII sanitization, anomaly deep-dive, deterministic EDA, and executive AI report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
